@@ -1,0 +1,8 @@
+﻿{
+  "Discord": {
+    "Development": "<leave empty if you use only a production token and leave UseProduction to true>",
+    "Production": "<your token here>",
+    "UseProduction": true
+  },
+  "DataDir": "guild-data"
+}
